@@ -73,6 +73,16 @@
 **ویژگی‌ها:** طراحی صنعتی، ۶ خدمت تخصصی، ۸ پروژه با فیلتر دسته‌بندی، معرفی تیم، فرم مشاوره پیشرفته
 
 ---
+### 🛒 فروشگاه اینترنتی «گجت‌لند»
+
+[![Live Demo](https://img.shields.io/badge/🌐_مشاهده_آنلاین-6D28D9?style=for-the-badge)](https://MMN-software.github.io/gadgetland/)
+[![Source](https://img.shields.io/badge/📁_سورس_کد-181717?style=for-the-badge&logo=github)](https://github.com/MMN-software/gadgetland)
+
+**تکنولوژی:** HTML5, CSS3, JavaScript (ES6+), LocalStorage  
+**ویژگی‌ها:** سبد خرید واقعی، جستجوی زنده، فیلتر پیشرفته، علاقه‌مندی‌ها، ۱۲ محصول نمونه، طراحی مدرن
+
+---
+
 
 ### 🤖 ربات تلگرام
 
