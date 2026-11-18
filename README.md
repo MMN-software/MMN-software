@@ -1,126 +1,59 @@
-<div align="center">
+# Hi, I'm Mohammad Mehdi Nemati
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E8722A&center=true&vCenter=true&width=600&lines=Front-End+Developer;UI%2FUX+Designer;Freelancer;Hello+World!+%F0%9F%91%8B" alt="Typing SVG" />
+**Front-end & full-stack web developer** · React · Next.js · TypeScript · Vue
 
-# سلام! من محمد مهدی نعمتی هستم 👋
+I build fast, responsive websites and web apps for businesses: storefronts, company websites, admin dashboards and installable PWAs. I handle the whole job, from planning and UI design in Figma through development and deployment, and I work fluently in both English and right-to-left (Persian/Arabic) interfaces.
 
-### توسعه‌دهنده فرانت‌اند و طراح رابط کاربری
+📍 Iran (UTC+3:30), working with clients remotely · 💼 **Open to freelance and contract work**
 
-دانشجوی مهندسی کامپیوتر — عاشق ساختن وب‌سایت‌های مدرن، ریسپانسیو و کاربرپسند
-
-[![Portfolio](https://img.shields.io/badge/🌐_نمونه‌کار_آنلاین-E8722A?style=for-the-badge)](https://MMN-software.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/ایمیل-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmehdi.neemati@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-mohammadmehdi.neemati%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadmehdi.neemati@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mmn--software.github.io-E8722A?style=flat-square&logo=githubpages&logoColor=white)](https://mmn-software.github.io/mmn-portfolio-v2/)
 
 ---
 
-## 🚀 درباره من
+### What I can do for you
 
-- 🔭 در حال حاضر روی **پروژه‌های فرانت‌اند** و **طراحی UI** کار می‌کنم
-- 🌱 در حال یادگیری **React** و **Next.js**
-- 💼 آماده همکاری در پروژه‌های **فریلنسری**
-- 🎯 هدف: تبدیل شدن به یه **توسعه‌دهنده فرانت‌اند حرفه‌ای**
-- ⚡ علاقه‌مند به **طراحی مینیمال** و **تجربه کاربری روان**
-
----
-
-## 🛠️ مهارت‌های من
-
-<div align="center">
-
-### فرانت‌اند
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### سیستم مدیریت محتوا
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-
-### طراحی
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-E8722A?style=for-the-badge)
-
-### ابزارها
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+- **Business websites & landing pages:** responsive, SEO-friendly, quick to load
+- **E-commerce front ends:** catalogues, filters, search, cart and checkout flows
+- **Full-stack web apps:** Next.js with a PostgreSQL database, authentication and an admin panel
+- **Progressive Web Apps:** installable, offline-first tools that run on any device
+- **RTL & multilingual UI:** proper right-to-left layouts, typography and localized formatting
+- **UI/UX design:** wireframes and interfaces in Figma, turned into clean components
 
 ---
 
-## 💼 پروژه‌های شاخص
+### Selected work
 
-### 🏠 وب‌سایت آژانس املاک «خانه مدرن»
-
-[![Live Demo](https://img.shields.io/badge/🌐_مشاهده_آنلاین-C9A86A?style=for-the-badge)](https://MMN-software.github.io/portfolio/)
-[![Source](https://img.shields.io/badge/📁_سورس_کد-181717?style=for-the-badge&logo=github)](https://github.com/MMN-software/portfolio)
-
-**تکنولوژی:** HTML5, CSS3, JavaScript  
-**ویژگی‌ها:** طراحی لوکس، فیلتر پیشرفته املاک، ۹ ملک نمونه، گالری تصاویر، نقشه تعاملی، ذخیره علاقه‌مندی‌ها
-
----
-
-### 🏗️ وب‌سایت پیمانکاری ساختمانی «سازه‌گستر پارس»
-
-[![Live Demo](https://img.shields.io/badge/🌐_مشاهده_آنلاین-E8722A?style=for-the-badge)](https://MMN-software.github.io/sazeh-gostar/)
-[![Source](https://img.shields.io/badge/📁_سورس_کد-181717?style=for-the-badge&logo=github)](https://github.com/MMN-software/sazeh-gostar)
-
-**تکنولوژی:** HTML5, CSS3, JavaScript  
-**ویژگی‌ها:** طراحی صنعتی، ۶ خدمت تخصصی، ۸ پروژه با فیلتر دسته‌بندی، معرفی تیم، فرم مشاوره پیشرفته
-
----
-### 🛒 فروشگاه اینترنتی «گجت‌لند»
-
-[![Live Demo](https://img.shields.io/badge/🌐_مشاهده_آنلاین-6D28D9?style=for-the-badge)](https://MMN-software.github.io/gadgetland/)
-[![Source](https://img.shields.io/badge/📁_سورس_کد-181717?style=for-the-badge&logo=github)](https://github.com/MMN-software/gadgetland)
-
-**تکنولوژی:** HTML5, CSS3, JavaScript (ES6+), LocalStorage  
-**ویژگی‌ها:** سبد خرید واقعی، جستجوی زنده، فیلتر پیشرفته، علاقه‌مندی‌ها، ۱۲ محصول نمونه، طراحی مدرن
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Tiraz System](https://github.com/MMN-software/tiraz-system)** | Full-stack platform for a medical equipment supplier: catalogue, blog, user accounts, inquiries and an admin panel | Next.js 16, TypeScript, Drizzle ORM, PostgreSQL (Neon), Tailwind |
+| **[Aia Health](https://github.com/MMN-software/aia-health)** · [demo](https://mmn-software.github.io/aia-health/) | Medical supplies storefront with a 3D hero, cart and a built-in shopping assistant | Next.js, TypeScript, shadcn/ui, React Three Fiber |
+| **[Invoice App](https://github.com/MMN-software/invoice-app)** · [demo](https://mmn-software.github.io/invoice-app/) | Offline-first invoicing PWA: invoices, payments, customers, reports, PIN lock | Vue 3, PWA, Service Worker |
+| **[Second Brain](https://github.com/MMN-software/second-brain-vue)** · [demo](https://mmn-software.github.io/second-brain-vue/) | Productivity PWA: notes, tasks, habits, Jalali calendar, Pomodoro, weather | Vue 3, PWA, Open-Meteo API |
+| **[Pardis Sakhtar Aflak](https://github.com/MMN-software/pasa-site)** | Corporate website for an oil & gas engineering firm, with data-driven content | React, Vite, React Router |
+| **[GadgetLand](https://github.com/MMN-software/gadgetland)** · [demo](https://mmn-software.github.io/gadgetland/) | Electronics store with live search, filters, cart and wishlist | Vanilla JS (ES6+) |
+| **[MedSupply](https://github.com/MMN-software/medsupply)** · [demo](https://mmn-software.github.io/medsupply/) | Multi-page B2B medical supplies store | HTML, CSS, JavaScript |
+| **[Modern Home](https://github.com/MMN-software/portfolio)** · [demo](https://mmn-software.github.io/portfolio/) | Luxury real estate agency site with advanced search and maps | JavaScript, OpenStreetMap |
 
 ---
 
+### Tech stack
 
-### 🤖 ربات تلگرام
-
-[![Source](https://img.shields.io/badge/🐍_سورس_کد-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MMN-software/MMN-telegram-bot)
-
-**تکنولوژی:** Python  
-**ویژگی‌ها:** مدیریت دستورات، پردازش پیام‌ها
-
----
-
-## 📊 آمار گیت‌هاب
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MMN-software&show_icons=true&theme=default&hide_border=true&title_color=E8722A&icon_color=E8722A&text_color=0f2a3d" alt="آمار گیت‌هاب" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMN-software&layout=compact&hide_border=true&title_color=E8722A&text_color=0f2a3d" alt="زبان‌های پرکاربرد" height="180" />
-
-</div>
+**Languages:** TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Python  
+**Front end:** React · Next.js · Vue 3 · Vite · Tailwind CSS · shadcn/ui · Radix UI  
+**Motion & 3D:** Framer Motion · GSAP · Three.js / React Three Fiber  
+**Back end & data:** Next.js route handlers · PostgreSQL · Drizzle ORM · Neon  
+**Platforms & tools:** Git · GitHub Actions · GitHub Pages · PWA / Service Workers · WordPress · WooCommerce · Figma
 
 ---
 
-## 📬 راه‌های ارتباطی
+### How I work
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MMN--software-181717?style=for-the-badge&logo=github)](https://github.com/MMN-software)
-[![Portfolio](https://img.shields.io/badge/نمونه‌کار-آنلاین-E8722A?style=for-the-badge)](https://MMN-software.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/ایمیل-mohammadmehdi.neemati@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmehdi.neemati@gmail.com)
-
-</div>
+- **Clear scope first:** I review your current site or requirements and agree the feature list before writing code
+- **Regular updates:** you get a live preview link early and see progress as it happens
+- **Clean handover:** documented code, a README with setup steps, and content you can edit yourself
+- **Accessible and responsive by default:** semantic HTML, keyboard-friendly components, and layouts tested on mobile
 
 ---
 
-<div align="center">
-
-### ⭐ از پروژه‌هام خوشت اومد؟ یه ستاره بده!
-
-**ساخته شده با ❤️ در ایران**
-
-</div>
+Have a project in mind? **[Email me](mailto:mohammadmehdi.neemati@gmail.com)** with a short description and your timeline.
