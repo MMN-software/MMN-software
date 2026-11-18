@@ -4,7 +4,7 @@
 
 I build fast, responsive websites and web apps for businesses: storefronts, company websites, admin dashboards and installable PWAs. I handle the whole job, from planning and UI design in Figma through development and deployment, and I work fluently in both English and right-to-left (Persian/Arabic) interfaces.
 
-📍 Iran (UTC+3:30), working with clients remotely · 💼 **Open to freelance and contract work**
+🌍 Remote · UTC+3:30 · 💼 **Open to freelance and contract work**
 
 [![Email](https://img.shields.io/badge/Email-mohammadmehdi.neemati%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadmehdi.neemati@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mmn--software.github.io-E8722A?style=flat-square&logo=githubpages&logoColor=white)](https://mmn-software.github.io/mmn-portfolio-v2/)
